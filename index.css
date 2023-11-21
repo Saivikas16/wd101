@@ -2,8 +2,8 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background: #333; /* Dark background */
-  color: #eee; /* Light text color */
+  background: #333; 
+  color: #eee; 
 }
 
 .spacing1 {
@@ -14,16 +14,16 @@ body {
   max-width: 600px;
   margin: 0 auto;
   padding: 1rem;
-  border: 1px solid #555; /* Darker border */
+  border: 1px solid #555; 
   border-radius: 0.5rem;
-  background: #444; /* Dark container background */
+  background: #444; 
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
 
 h1 {
   text-align: center;
   margin-bottom: 1.5rem;
-  color: #ddd; /* Light text color */
+  color: #ddd; 
 }
 
 form {
@@ -33,7 +33,7 @@ form {
 
 label {
   font-weight: bold;
-  color: #ccc; /* Lighter text color */
+  color: #ccc;
 }
 
 input[type="text"],
@@ -44,8 +44,8 @@ input[type="checkbox"] {
   padding: 0.5rem;
   margin-bottom: 1rem;
   border-radius: 0.25rem;
-  border: 1px solid #555; /* Darker border */
-  background-color: #666; /* Dark input background */
+  border: 1px solid #555; 
+  background-color: #666; 
   color: #eee; /* Light text color */
 }
 
@@ -72,24 +72,24 @@ table {
   margin-top: 2rem;
   border-collapse: collapse;
   width: 80%;
-  border: 1px solid #888; /* Darker border */
+  border: 1px solid #888; 
   margin: 0 auto;
-  background-color: #555; /* Dark table background */
+  background-color: #555; 
 }
 
 th,
 td {
-  border: 1px solid #888; /* Darker border */
+  border: 1px solid #888; 
   padding: 0.5rem;
   text-align: left;
-  color: #eee; /* Light text color */
+  color: #eee;
 }
 
 caption {
   text-align: center;
   font-size: 1.5rem;
   margin-bottom: 0.5rem;
-  color: #ddd; /* Light text color */
+  color: #ddd; 
 }
 
 label:hover {
@@ -107,7 +107,7 @@ input[type="checkbox"]:hover {
 
 th,
 td {
-  color: #eee; /* Light text color */
+  color: #eee; 
   transition: background-color 0.3s ease;
 }
 

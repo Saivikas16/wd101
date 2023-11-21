@@ -46,7 +46,7 @@ input[type="checkbox"] {
   border-radius: 0.25rem;
   border: 1px solid #555; 
   background-color: #666; 
-  color: #eee; /* Light text color */
+  color: #eee;
 }
 
 input[type="checkbox"] {
@@ -113,6 +113,6 @@ td {
 
 th:hover,
 td:hover {
-  background-color: #777; /* Darker background on hover */
+  background-color: #777;
   transition: background-color 0.3s ease;
 }
